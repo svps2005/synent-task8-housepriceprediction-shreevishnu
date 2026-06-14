@@ -56,6 +56,9 @@ Predicted House Price:
 
 ₹47.7 Lakhs (approximately)
 
+## Video
+https://drive.google.com/file/d/11ynYM0v_yiB0jnoomyb2xu3P4TBrgUsh/view?usp=sharing
+
 ## Conclusion
 
 The project demonstrates the application of machine learning techniques for house price prediction. Random Forest Regression was used to train and evaluate the model, producing reasonable predictions based on housing characteristics.
